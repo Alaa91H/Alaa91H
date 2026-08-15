@@ -19,13 +19,13 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Alaa+%F0%9F%91%8B;Android+%26+Systems+Developer;Custom+ROM+%26+Kernel+Builder;Kotlin+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Alaa+%F0%9F%91%8B;Android+%26+Systems+Developer;Custom+ROM+%26+Kernel+Builder;Kotlin+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alaa91H"><img src="https://img.shields.io/github/followers/Alaa91H?style=flat-square&label=Followers&color=8B5CF6" alt="Followers" /></a>
-  <a href="https://github.com/Alaa91H"><img src="https://img.shields.io/github/stars/Alaa91H?style=flat-square&label=Total+Stars&color=8B5CF6" alt="Total Stars" /></a>
-  <a href="https://github.com/Alaa91H"><img src="https://komarev.com/ghpvc/?username=Alaa91H&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://github.com/Alaa91H"><img src="https://img.shields.io/github/followers/Alaa91H?style=flat-square&label=Followers&color=3B82F6" alt="Followers" /></a>
+  <a href="https://github.com/Alaa91H"><img src="https://img.shields.io/github/stars/Alaa91H?style=flat-square&label=Total+Stars&color=3B82F6" alt="Total Stars" /></a>
+  <a href="https://github.com/Alaa91H"><img src="https://komarev.com/ghpvc/?username=Alaa91H&label=Profile+Views&color=3B82F6&style=flat-square" alt="Profile Views" /></a>
 </p>
 
 ---
@@ -51,9 +51,9 @@ I'm currently focused on the **Nexa** family of Android projects (an automation 
 
 | | |
 |---|---|
-| 🚀 **<a href="https://github.com/Alaa91H/NexaFlow">NexaFlow</a>** — *Advanced context-aware automation engine for Android*<br/><a href="https://github.com/Alaa91H/NexaFlow/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/NexaFlow?style=flat-square&label=Stars&color=8B5CF6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/NexaFlow?style=flat-square&label=Language" alt="Language" /> <img src="https://img.shields.io/github/license/Alaa91H/NexaFlow?style=flat-square&label=License" alt="License" /> | 🕌 **<a href="https://github.com/Alaa91H/Muslim">Muslim</a>** — *Islamic companion app for Android*<br/><a href="https://github.com/Alaa91H/Muslim/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/Muslim?style=flat-square&label=Stars&color=8B5CF6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/Muslim?style=flat-square&label=Language" alt="Language" /> <img src="https://img.shields.io/github/license/Alaa91H/Muslim?style=flat-square&label=License" alt="License" /> |
-| 🧠 **<a href="https://github.com/Alaa91H/NexaSense">NexaSense</a>** — *Companion Kotlin project in the Nexa ecosystem*<br/><a href="https://github.com/Alaa91H/NexaSense/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/NexaSense?style=flat-square&label=Stars&color=8B5CF6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/NexaSense?style=flat-square&label=Language" alt="Language" /> <img src="https://img.shields.io/github/license/Alaa91H/NexaSense?style=flat-square&label=License" alt="License" /> | 📥 **<a href="https://github.com/Alaa91H/NOVADownloadManager">NOVA Download Manager</a>** — *Download manager: Chrome extension + Windows installer*<br/><a href="https://github.com/Alaa91H/NOVADownloadManager/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/NOVADownloadManager?style=flat-square&label=Stars&color=8B5CF6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/NOVADownloadManager?style=flat-square&label=Language" alt="Language" /> |
-| ⚙️ **<a href="https://github.com/Alaa91H/melt-kernel-builds">melt-kernel-builds</a>** — *CI that builds the Melt kernel for POCO F5 & publishes releases*<br/><a href="https://github.com/Alaa91H/melt-kernel-builds/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/melt-kernel-builds?style=flat-square&label=Stars&color=8B5CF6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/melt-kernel-builds?style=flat-square&label=Language" alt="Language" /> | 🐉 **<a href="https://github.com/Alaa91H/Phoenix-Whyred">Phoenix-Whyred</a>** — *GKI kernel 6.18 LTS for Redmi Note 5 Pro (hybrid ACK + mainline)*<br/><a href="https://github.com/Alaa91H/Phoenix-Whyred/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/Phoenix-Whyred?style=flat-square&label=Stars&color=8B5CF6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/Phoenix-Whyred?style=flat-square&label=Language" alt="Language" /> |
+| 🚀 **<a href="https://github.com/Alaa91H/NexaFlow">NexaFlow</a>** — *Advanced context-aware automation engine for Android*<br/><a href="https://github.com/Alaa91H/NexaFlow/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/NexaFlow?style=flat-square&label=Stars&color=3B82F6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/NexaFlow?style=flat-square&label=Language" alt="Language" /> <img src="https://img.shields.io/github/license/Alaa91H/NexaFlow?style=flat-square&label=License" alt="License" /> | 🕌 **<a href="https://github.com/Alaa91H/Muslim">Muslim</a>** — *Islamic companion app for Android*<br/><a href="https://github.com/Alaa91H/Muslim/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/Muslim?style=flat-square&label=Stars&color=3B82F6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/Muslim?style=flat-square&label=Language" alt="Language" /> <img src="https://img.shields.io/github/license/Alaa91H/Muslim?style=flat-square&label=License" alt="License" /> |
+| 🧠 **<a href="https://github.com/Alaa91H/NexaSense">NexaSense</a>** — *Companion Kotlin project in the Nexa ecosystem*<br/><a href="https://github.com/Alaa91H/NexaSense/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/NexaSense?style=flat-square&label=Stars&color=3B82F6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/NexaSense?style=flat-square&label=Language" alt="Language" /> <img src="https://img.shields.io/github/license/Alaa91H/NexaSense?style=flat-square&label=License" alt="License" /> | 📥 **<a href="https://github.com/Alaa91H/NOVADownloadManager">NOVA Download Manager</a>** — *Download manager: Chrome extension + Windows installer*<br/><a href="https://github.com/Alaa91H/NOVADownloadManager/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/NOVADownloadManager?style=flat-square&label=Stars&color=3B82F6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/NOVADownloadManager?style=flat-square&label=Language" alt="Language" /> |
+| ⚙️ **<a href="https://github.com/Alaa91H/melt-kernel-builds">melt-kernel-builds</a>** — *CI that builds the Melt kernel for POCO F5 & publishes releases*<br/><a href="https://github.com/Alaa91H/melt-kernel-builds/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/melt-kernel-builds?style=flat-square&label=Stars&color=3B82F6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/melt-kernel-builds?style=flat-square&label=Language" alt="Language" /> | 🐉 **<a href="https://github.com/Alaa91H/Phoenix-Whyred">Phoenix-Whyred</a>** — *GKI kernel 6.18 LTS for Redmi Note 5 Pro (hybrid ACK + mainline)*<br/><a href="https://github.com/Alaa91H/Phoenix-Whyred/stargazers"><img src="https://img.shields.io/github/stars/Alaa91H/Phoenix-Whyred?style=flat-square&label=Stars&color=3B82F6" alt="Stars" /></a> <img src="https://img.shields.io/github/languages/top/Alaa91H/Phoenix-Whyred?style=flat-square&label=Language" alt="Language" /> |
 
 ## 🛠️ Tech Stack
 
@@ -101,22 +101,22 @@ I'm currently focused on the **Nexa** family of Android projects (an automation 
 **Devices I Build For**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POCO%20F5%20%7C%20Redmi%20Note%2012%20Turbo-6D28D9?style=flat-square" alt="POCO F5 / Note 12T" />
-  <img src="https://img.shields.io/badge/Redmi%20Note%205%20Pro-2563EB?style=flat-square" alt="Redmi Note 5 Pro" />
-  <img src="https://img.shields.io/badge/Galaxy%20A53%205G-0EA5E9?style=flat-square" alt="Galaxy A53 5G" />
-  <img src="https://img.shields.io/badge/Snapdragon%207%2B%20Gen%202-EF4444?style=flat-square" alt="Snapdragon 7+ Gen 2" />
-  <img src="https://img.shields.io/badge/Exynos%201280-10B981?style=flat-square" alt="Exynos 1280" />
+  <img src="https://img.shields.io/badge/POCO%20F5%20%7C%20Redmi%20Note%2012%20Turbo-1E3A8A?style=flat-square" alt="POCO F5 / Note 12T" />
+  <img src="https://img.shields.io/badge/Redmi%20Note%205%20Pro-1D4ED8?style=flat-square" alt="Redmi Note 5 Pro" />
+  <img src="https://img.shields.io/badge/Galaxy%20A53%205G-2563EB?style=flat-square" alt="Galaxy A53 5G" />
+  <img src="https://img.shields.io/badge/Snapdragon%207%2B%20Gen%202-3B82F6?style=flat-square" alt="Snapdragon 7+ Gen 2" />
+  <img src="https://img.shields.io/badge/Exynos%201280-60A5FA?style=flat-square" alt="Exynos 1280" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaa91H&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaa91H&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaa91H&theme=github_dark" alt="GitHub Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaa91H&theme=github_dark" alt="Most Used Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaa91H&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaa91H&theme=tokyonight" alt="Most Used Languages" width="49%" />
 </p>
 
 <p align="center">
