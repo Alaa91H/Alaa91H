@@ -120,7 +120,7 @@ I'm currently focused on the **Nexa** family of Android projects (an automation 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alaa91H&theme=github-dark&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaa91H&theme=tokyonight" alt="Productive Time" width="49%" />
 </p>
 
 ## 📫 Connect With Me
