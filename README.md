@@ -134,14 +134,12 @@ Community-maintained native port of **Command & Conquer: Generals – Zero Hour*
 
 ---
 
-## 🤖 Services, Automation & Other Work
+## 🤖 Services & Automation
 
 | Project | Description |
 | --- | --- |
+| 🌉 **[opencode-bridge](https://github.com/Alaa91H/opencode-bridge)** | Arabic Telegram control plane for a locally hosted OpenCode development agent, with persistent task queues, guarded multi-repository workflows, adaptive resource control and model management |
 | 🕌 **[islamic-unified-bot](https://github.com/Alaa91H/islamic-unified-bot)** | Python Telegram service combining Adhkar, Quran audio streaming and automated prayer-time notifications |
-| 🌉 **[opencode-bridge](https://github.com/Alaa91H/opencode-bridge)** | Integration and bridge tooling |
-| 🧰 **[BlackList](https://github.com/Alaa91H/BlackList)** | Privacy-focused Android utility engineering with strict local-only behavior |
-| 🎮 **[GeneralsZH](https://github.com/Alaa91H/GeneralsZH)** | Native cross-platform game-engine porting and Android-focused systems work |
 
 <div align="center">
 
